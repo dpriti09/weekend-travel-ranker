@@ -8,7 +8,8 @@ This project ranks weekend travel spots based on the city name. It uses a datase
 
 ## Installation and Running the Project
 1. Open the `.ipynb` in jupyter notebook.
-1. Install dependencies: pip install pandas
-3. Run the cells.
+2. Upload the "Top Indian Places to Visit" CSV file on the notebook
+3. Install the dependencies, pip install pandas, and set the path for the CSV file
+4. Run the cells.
 
 
